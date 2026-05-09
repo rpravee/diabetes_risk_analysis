@@ -85,4 +85,3 @@ This project combines 3 data science techniques in one notebook:
 
 ## Files
 - `diabetes_analysis.ipynb` — full annotated analysis notebook
-- `diabetes_dataset.csv` — patient dataset (include in same folder to run)
